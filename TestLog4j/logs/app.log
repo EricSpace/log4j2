@@ -1,0 +1,64 @@
+2015-07-07 at 22:47:52 CST TRACE com.test.Hello 12 main - entry
+2015-07-07 at 22:47:52 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07-07 at 22:47:52 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07-07 at 22:47:52 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07-07 at 22:47:52 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07-07 at 22:47:52 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07-07 at 22:47:52 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07-07 at 22:47:52 CST TRACE com.test.Hello 19 main - exit
+2015-07-07 at 22:50:01 CST TRACE com.test.Hello 12 main - entry
+2015-07-07 at 22:50:01 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07-07 at 22:50:01 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07-07 at 22:50:01 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07-07 at 22:50:01 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07-07 at 22:50:01 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07-07 at 22:50:01 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07-07 at 22:50:01 CST TRACE com.test.Hello 19 main - exit
+2015-07-07 at 22:50:41 CST TRACE com.test.Hello 12 main - entry
+2015-07-07 at 22:50:41 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07-07 at 22:50:41 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07-07 at 22:50:41 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07-07 at 22:50:41 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07-07 at 22:50:41 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07-07 at 22:50:41 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07-07 at 22:50:41 CST TRACE com.test.Hello 19 main - exit
+2015-07-07 at 22:52:05 CST TRACE com.test.Hello 12 main - entry
+2015-07-07 at 22:52:05 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07-07 at 22:52:05 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07-07 at 22:52:05 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07-07 at 22:52:05 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07-07 at 22:52:05 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07-07 at 22:52:05 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07-07 at 22:52:05 CST TRACE com.test.Hello 19 main - exit
+2015-07-07 at 22:56:48 CST TRACE com.test.Hello 12 main - entry
+2015-07-07 at 22:56:48 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07-07 at 22:56:48 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07-07 at 22:56:48 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07-07 at 22:56:48 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07-07 at 22:56:48 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07-07 at 22:56:48 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07-07 at 22:56:48 CST TRACE com.test.Hello 19 main - exit
+2015-07 -07 at 23:12:58 CST TRACE com.test.Hello 12 main - entry
+2015-07 -07 at 23:12:58 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07 -07 at 23:12:58 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07 -07 at 23:12:58 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07 -07 at 23:12:58 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07 -07 at 23:12:58 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07 -07 at 23:12:58 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07 -07 at 23:12:58 CST TRACE com.test.Hello 19 main - exit
+2015-07 -07 at 23:13:44 CST TRACE com.test.Hello 12 main - entry
+2015-07 -07 at 23:13:44 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07 -07 at 23:13:44 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07 -07 at 23:13:44 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07 -07 at 23:13:44 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07 -07 at 23:13:44 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07 -07 at 23:13:44 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07 -07 at 23:13:44 CST TRACE com.test.Hello 19 main - exit
+2015-07 -07 at 23:14:53 CST TRACE com.test.Hello 12 main - entry
+2015-07 -07 at 23:14:53 CST ERROR com.test.Hello 13 main - Did it again!
+2015-07 -07 at 23:14:53 CST INFO  com.test.Hello 14 main - 我是info信息
+2015-07 -07 at 23:14:53 CST DEBUG com.test.Hello 15 main - 我是debug信息
+2015-07 -07 at 23:14:53 CST WARN  com.test.Hello 16 main - 我是warn信息
+2015-07 -07 at 23:14:53 CST FATAL com.test.Hello 17 main - 我是fatal信息
+2015-07 -07 at 23:14:53 CST DEBUG com.test.Hello 18 main - 我是debug信息
+2015-07 -07 at 23:14:53 CST TRACE com.test.Hello 19 main - exit
